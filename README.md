@@ -1,2 +1,1 @@
-# Insight-Project
-Consulting project I worked on @ Insight Data Science San Francisco 
+# NLP_Text_Classification
